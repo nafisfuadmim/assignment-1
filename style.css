@@ -67,8 +67,12 @@ h2 {
 .develop-align {
     text-align: left;
 }
-
-
+.middle-section-background-img {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:18%;
+    background-position: bottom 140px left 100px;
+}
 
 
 

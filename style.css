@@ -51,6 +51,9 @@ h2 {
     padding-left: 4%;
     border-radius: 10px; 
 }
+#image-align {
+    margin-right: 7%;
+}
 .middle-section {
     display: flex;
 }
@@ -73,62 +76,3 @@ h2 {
     background-size:18%;
     background-position: bottom 140px left 100px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .middle-section {
-    background-image: url(images/shapes/shape-1.png);
-    background-size: 18%;
-    background-repeat: no-repeat;
-    background-position:bottom 140px left 100px;
-}
-.coding-girls img {
-    width: 35%;
-}
-.coding-girls {
-    margin-left: 13%;
-    margin-top: 7%;
-    
-} */
-

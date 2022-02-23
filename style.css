@@ -54,17 +54,17 @@ h2 {
 .middle-section {
     display: flex;
 }
-.coding-girls img {
+.coding-develop-half-width img {
     width: 100%;
 }
-.coding-girls {
+.coding-develop-half-width {
     margin-left: 13%;
     margin-top: 5%;
 }
-.block {
+.block-inline {
     display: block;
 }
-.align {
+.develop-align {
     text-align: left;
 }
 

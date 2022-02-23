@@ -34,21 +34,34 @@ h2 {
 }
 #mission-box {
    background-color: #2792a5;
-   margin-left: 5%; 
+   margin-left: 13%; 
    padding-left: 4%;
    border-radius: 10px;
 }
 #vission-box {
     background-color: #7c6bea;
-    margin-left: 5%;
+    margin-left: 13%;
     padding-left: 4%;
     border-radius: 10px;
 }
 #goals-box {
     background-color: rgb(67, 89, 90);
-    margin-left: 5%;
+    margin-left: 13%;
     margin-right: 4%;
     padding-left: 4%;
-    border-radius: 10px;
+    border-radius: 10px; 
+}
+.middle-section {
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 18%;
+    background-repeat: no-repeat;
+    background-position:bottom 140px left 100px;
+}
+.coding-girls img {
+    width: 35%;
+}
+.coding-girls {
+    margin-left: 13%;
+    margin-top: 7%;
     
 }

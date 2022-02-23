@@ -4,6 +4,10 @@
 .half-width h1 {
     font-size: 70px;
 }
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
 .mission-color {
     color: #7c6bea;
 }
@@ -27,18 +31,24 @@
    background-color: #2792a5;
    margin-left: 5%; 
    padding-left: 4%;
-  
+   border-radius: 10px;
 }
 #vission-box {
     background-color: #7c6bea;
     margin-left: 5%;
     padding-left: 4%;
-   
+    border-radius: 10px;
 }
 #goals-box {
     background-color: rgb(67, 89, 90);
     margin-left: 5%;
     margin-right: 4%;
     padding-left: 4%;
+    border-radius: 10px;
     
+}
+.border {
+    border-left: 10px solid;
+    border-image: linear-gradient(olive,green);
+    border-image-slice: 1;
 }

@@ -11,6 +11,11 @@ h2 {
 .mission-color {
     color: #7c6bea;
 }
+.stay-mission-border {
+    border-left: 5px solid;
+    border-image: linear-gradient(#4a2356,#ff725c);
+    border-image-slice: 1;
+}
 .exp-btn {
     text-decoration: none;
     padding: 15px 50px;
@@ -46,9 +51,4 @@ h2 {
     padding-left: 4%;
     border-radius: 10px;
     
-}
-.border {
-    border-left: 10px solid;
-    border-image: linear-gradient(olive,green);
-    border-image-slice: 1;
 }

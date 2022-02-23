@@ -52,6 +52,68 @@ h2 {
     border-radius: 10px; 
 }
 .middle-section {
+    display: flex;
+}
+.coding-girls img {
+    width: 100%;
+}
+.coding-girls {
+    margin-left: 13%;
+    margin-top: 5%;
+}
+.block {
+    display: block;
+}
+.align {
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .middle-section {
     background-image: url(images/shapes/shape-1.png);
     background-size: 18%;
     background-repeat: no-repeat;
@@ -64,4 +126,5 @@ h2 {
     margin-left: 13%;
     margin-top: 7%;
     
-}
+} */
+
